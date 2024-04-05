@@ -1,1 +1,1 @@
-# xjtu_cs2201_machine-learing-seminar
+# xjtu_cs2201_machine-learning-seminar
